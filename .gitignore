@@ -25,6 +25,7 @@
 
 # VS Code workspace settings (if you use VS Code)
 .vscode/
+*.code-workspace
 
 # Xcode (if you do iOS/macOS dev)
 *.xcuserdata
